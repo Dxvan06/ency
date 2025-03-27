@@ -1,5 +1,5 @@
 # ency
- protecting sensitive data encryption and access control
+ 
 
 # 🔒 **VaultSecure – Protect Sensitive Data with Encryption and Access Control**
 
